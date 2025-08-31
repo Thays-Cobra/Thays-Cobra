@@ -20,6 +20,6 @@
 ---
 
 ## 🌍 Onde me encontrar
-LinkedIn: [https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/thays-cobra-447383241/) 
+LinkedIn: [https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/thays-cobra-447383241/) /n
 
 ✉️ **Email:** thays.perez.13@gmail.com
