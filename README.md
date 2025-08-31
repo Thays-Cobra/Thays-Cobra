@@ -1,18 +1,9 @@
 # 👋 Olá, eu sou a Thays Cobra  
 
 💻 **Analista de Sistemas Jr. | Front-End Developer**  
-🌱 Atualmente aprendendo mais sobre **APIs, Chatbots e Integrações**  
-✨ Experiência em **JavaScript, React, Git, APIs REST, Grafana, Kibana**  
+👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms
+✨ Experiência em **JavaScript, Git, integração com APIs REST/SOAP, Chatbot, Grafana, Kibana**  
 🏥 Trabalhando no **Hospital Israelita Albert Einstein**  
-
----
-
-## 🚀 Projetos em Destaque
-- [📱 Chatbot Journey Simulator](https://github.com/seuusuario/chatbot-simulator)  
-  *Simulador de fluxos conversacionais com integração de APIs.*  
-
-- [🌐 Meu Portfólio Pessoal](https://github.com/seuusuario/portfolio)  
-  *Site com meus principais projetos e experiências.*  
 
 ---
 
