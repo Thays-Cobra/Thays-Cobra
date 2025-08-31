@@ -2,7 +2,7 @@
 
 💻 **Analista de Sistemas Jr. | Front-End Developer**  
 👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms
-✨ Experiência em **JavaScript, Git, integração com APIs REST/SOAP, Chatbot, Grafana, Kibana**  
+✨ Experiência em **JavaScript, Git, integração com APIs REST/SOAP, Java, Spring Boot, Chatbot, Grafana, Kibana**  
 🏥 Trabalhando no **Hospital Israelita Albert Einstein**  
 
 ---
@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Thays's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayscobra&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayscobra&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/thays-cobra-447383241/))  
 ✉️ **Email:** thays.perez.13@gmail.com
