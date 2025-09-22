@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Thays Cobra  
 
 💻 **Analista de Sistemas Jr. | Front-End Developer**  
-👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms
+👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms  
 ✨ Experiência em **JavaScript, Git, integração com APIs REST/SOAP, Java, Spring Boot, Chatbot, Grafana, Kibana**  
 🏥 Trabalhando no **Hospital Israelita Albert Einstein**  
 
@@ -20,6 +20,6 @@
 ---
 
 ## 🌍 Onde me encontrar
-LinkedIn: [[https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/thays-cobra-447383241/)]
+LinkedIn: [[Thays Cobra](https://www.linkedin.com/in/thays-cobra-447383241/)]
 
 ✉️ **Email:** thays.perez.13@gmail.com
