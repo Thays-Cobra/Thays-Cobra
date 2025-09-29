@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Thays Cobra  
 
 💻 **Analista de Sistemas Jr. | Front-End Developer**  
-👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms, Jest  
+👑 Atualmente trabalhando com aplicações Web - HTML, CSS, JavaScript, React/React Hook Forms, Jest/Vitest  
 ✨ Experiência em **JavaScript, Git, integração com APIs REST/SOAP, Java, Spring Boot, Chatbot, Grafana, Kibana**  
 🏥 Trabalhando no **Hospital Israelita Albert Einstein**  
 
