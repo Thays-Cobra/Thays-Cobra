@@ -8,8 +8,8 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge)  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
